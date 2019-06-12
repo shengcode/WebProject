@@ -22,3 +22,4 @@ Backlog (VSTS / Azure DevOps): https://dev.azure.com/kabollinger/WebSProject
 **Employee** - The main piece of data being described. Does not use the application. Belongs to a *class*. Takes many *modules*, receiving a *score* for each.
 
 **Student** - Exact same thing as employee, but old term. Some people still use interchangably.
+# the old project needs to update
